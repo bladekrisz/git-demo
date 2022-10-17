@@ -10,7 +10,6 @@ git config --global user.name "Gipsz Jakab"
 ### sub-sub header
 
 - item1
-- item2
 - item3
 
 ---
