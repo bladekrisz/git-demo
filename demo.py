@@ -1,4 +1,8 @@
 # This is a simple hello world program.
 
 name = input("Give me your name you filthy litl' bitch: ")
-print(f'Hello {name}!')
+
+def greeting(name: str):
+    print(f'Hello {name}!')
+
+greeting(name)
